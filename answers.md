@@ -90,4 +90,63 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answers.md
 
-Answer 6: 
+Answer 6: On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7: On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8: commit 3fc13c3f3f7a8aaf6e6bb618c330dd377d587482 (HEAD -> master)
+Author: Alexandra Semposki <as727414@ohio.edu>
+Date:   Tue May 12 22:13:39 2020 -0400
+
+    Initial commit
+
+Answer 9: On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10: As seen below in the message from my terminal obtained by typing 'more README.md', the changes made on Github online are not reflected in my local copy.
+
+Full name: Alexandra Semposki
+Github user-name: asemposki
+email: as727414@ohio.edu
+
+Message for TA: My answers are recorded in the file answers.md.
+
+Answer 11: To https://github.com/asemposki/git-lab.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/asemposki/git-lab.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes, now the changes to the online copy of the README.md file are reflected in my local copy of the README.md file, as seen below.
+
+Full name: Alexandra Semposki
+Github user-name: asemposki
+email: as727414@ohio.edu
+Course info: CS2400, Section 103
+
+
+Message for TA: My answers are recorded in the file answers.md.
+
+Answer 13: .  ..  .git  .gitignore  README.md
